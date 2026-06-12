@@ -241,35 +241,37 @@ Designed and shipped multiple products across SaaS, mobile, browser tooling, and
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=abhidhakal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF9F43&text_color=e5e7eb&ring_color=FF6B6B" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhidhakal&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=e5e7eb" />
+<img src="https://raw.githubusercontent.com/abhidhakal/abhidhakal/main/metrics.base.svg" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhidhakal&hide_border=true&background=0D1117&stroke=1a1a2e&ring=FF6B6B&fire=FF9F43&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF6B6B&sideLabels=FF9F43&dates=6b7280" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhidhakal&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/abhidhakal/abhidhakal/main/metrics.languages.svg" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Calendar
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhidhakal&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=FF9F43&point=4ECDC4&area_color=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/abhidhakal/abhidhakal/main/metrics.calendar.svg" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake-dark.svg" />
+</picture>
 
 </div>
 
