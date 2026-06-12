@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=200&section=header&text=Abhinav%20Dhakal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Founder%20%7C%20Product%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1C1C1C&height=200&section=header&text=Abhinav%20Dhakal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Founder%20%7C%20Product%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
@@ -33,9 +33,9 @@
 
 ## About
 
-I'm **Abhinav Dhakal** — a full stack engineer and founder based in Kathmandu, Nepal. I build end-to-end digital products: from architecture and backend systems to polished, performant user interfaces.
+I'm **Abhinav Dhakal**, a full stack engineer and founder based in Kathmandu, Nepal. I build end-to-end digital products: from architecture and backend systems to polished, performant user interfaces.
 
-I founded **[Klivo Studios](https://klivostudios.com)** — a product and web agency delivering high-performance digital solutions to businesses. Alongside agency work, I actively ship my own products, including **[Aline](https://alinebms.com)** — an all-in-one CRM, HR, and payroll platform built for growing teams.
+I founded **[Klivo Studios](https://klivostudios.com)**, a product and web agency delivering high-performance digital solutions to businesses. Alongside agency work, I actively ship my own products, including **[Aline](https://alinebms.com)**, an all-in-one CRM, HR, and payroll platform built for growing teams.
 
 My engineering philosophy: keep systems simple, make interfaces intuitive, and ship things that actually work in production. I move fast without cutting corners on security, performance, or user experience.
 
@@ -74,7 +74,7 @@ My engineering philosophy: keep systems simple, make interfaces intuitive, and s
 ## Featured Projects
 
 <details>
-<summary><strong>Aline — Business Management Platform</strong></summary>
+<summary><strong>Aline - Business Management Platform</strong></summary>
 <br/>
 
 All-in-one CRM, HR and payroll software for growing teams. Manage leads, attendance, payroll, projects, support, and daily workflows from one connected system.
@@ -86,14 +86,14 @@ All-in-one CRM, HR and payroll software for growing teams. Manage leads, attenda
 | **Performance** | Optimised query design, lazy-loaded modules |
 | **Security** | Role-based access control, encrypted data handling |
 | **Impact** | Replaces 4–6 disconnected tools for SME operations |
-| **Repo** | Private — Commercial Product |
+| **Repo** | Private - Commercial Product |
 
 [![Visit Aline](https://img.shields.io/badge/alinebms.com-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://alinebms.com)
 
 </details>
 
 <details>
-<summary><strong>Player Workload Monitor — Sports AI System</strong></summary>
+<summary><strong>Player Workload Monitor - Sports AI System</strong></summary>
 <br/>
 
 Tracks football player workload in real time using ACWR algorithms paired with an AI anomaly detection model to flag elevated fatigue and recovery risks.
@@ -105,14 +105,14 @@ Tracks football player workload in real time using ACWR algorithms paired with a
 | **Performance** | Real-time dashboard with configurable alert thresholds |
 | **Security** | Authenticated API endpoints, per-team data isolation |
 | **Impact** | Reduces overuse injury risk through data-driven load management |
-| **Repo** | Private — Upgrading |
+| **Repo** | Private - Upgrading |
 
 ![Status](https://img.shields.io/badge/Status-Upgrading-FF9F43?style=flat-square)
 
 </details>
 
 <details>
-<summary><strong>Flux — AI Financial Tracker</strong></summary>
+<summary><strong>Flux - AI Financial Tracker</strong></summary>
 <br/>
 
 Mobile app combining AI-driven spending insights, smart budgeting, and goal tracking to help users build sustainable financial habits.
@@ -131,10 +131,10 @@ Mobile app combining AI-driven spending insights, smart budgeting, and goal trac
 </details>
 
 <details>
-<summary><strong>Sable — Zero-Knowledge Password Manager</strong></summary>
+<summary><strong>Sable - Zero-Knowledge Password Manager</strong></summary>
 <br/>
 
-AES-256-GCM client-side encrypted password manager. The master password never leaves the browser — the server never sees plaintext credentials.
+AES-256-GCM client-side encrypted password manager. The master password never leaves the browser, the server never sees plaintext credentials.
 
 | | |
 |:---|:---|
@@ -142,7 +142,7 @@ AES-256-GCM client-side encrypted password manager. The master password never le
 | **Scale** | Individual users, browser-local encryption |
 | **Performance** | Instant client-side encrypt/decrypt, zero server round-trips for secrets |
 | **Security** | AES-256-GCM, zero-knowledge architecture, PBKDF2 key derivation |
-| **Impact** | True privacy — no vendor can access your vault |
+| **Impact** | True privacy, no vendor can access your vault |
 | **Repo** | Public |
 
 [![Visit Sable](https://img.shields.io/badge/sablepw.netlify.app-FFE66D?style=flat-square&logo=firefox&logoColor=black)](https://sablepw.netlify.app/)
@@ -150,7 +150,7 @@ AES-256-GCM client-side encrypted password manager. The master password never le
 </details>
 
 <details>
-<summary><strong>Pickxel — Chrome Color Picker Extension</strong></summary>
+<summary><strong>Pickxel - Chrome Color Picker Extension</strong></summary>
 <br/>
 
 Fast, lightweight Chrome extension for designers and developers. Pick any colour from any website, grab hex codes, and generate gradients instantly.
@@ -169,7 +169,7 @@ Fast, lightweight Chrome extension for designers and developers. Pick any colour
 </details>
 
 <details>
-<summary><strong>HReady — Mobile HRMS</strong></summary>
+<summary><strong>HReady - Mobile HRMS</strong></summary>
 <br/>
 
 Flutter mobile app for HR teams to manage employee data, track performance, and handle leave requests.
@@ -185,7 +185,7 @@ Flutter mobile app for HR teams to manage employee data, track performance, and 
 </details>
 
 <details>
-<summary><strong>Laaka — Premium Shoe E-Commerce</strong></summary>
+<summary><strong>Laaka - Premium Shoe E-Commerce</strong></summary>
 <br/>
 
 Full-stack e-commerce platform for premium shoe brands with product filtering, cart management, and a clean storefront.
@@ -204,7 +204,7 @@ Full-stack e-commerce platform for premium shoe brands with product filtering, c
 
 ## Experience
 
-**Founder & Lead Engineer — Klivo Studios** &nbsp;·&nbsp; *2024 – Present*
+**Founder & Lead Engineer - Klivo Studios** &nbsp;·&nbsp; *2024 - Present*
 
 Full-service web and product agency. I own the full lifecycle: client strategy, architecture, engineering, and delivery.
 
@@ -220,15 +220,13 @@ Full-service web and product agency. I own the full lifecycle: client strategy, 
 
 ---
 
-**Independent Product Engineer** &nbsp;·&nbsp; *2023 – Present*
+**Freelance Developer** &nbsp;·&nbsp; *2023 - Present*
 
-Designed and shipped multiple products across SaaS, mobile, browser tooling, and security — from zero to production.
+Building websites, SaaS products, and mobile apps for clients across various industries.
 
-- Aline: multi-module B2B SaaS replacing fragmented business operations tools
-- Flux: AI-powered financial tracker for personal finance
-- Sable: zero-knowledge password manager with AES-256-GCM encryption
-- Pickxel: zero-dependency Chrome extension for designers
-- Player Workload Monitor: ML-integrated sports analytics and injury prevention system
+- Design and develop custom websites and web applications
+- Build and ship SaaS products from idea to production
+- Work directly with clients on scoping, design, and delivery
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -263,41 +261,6 @@ Designed and shipped multiple products across SaaS, mobile, browser tooling, and
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/abhidhakal/abhidhakal/output/snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## Current Focus
-
-```yaml
-current_focus:
-  building:
-    - Aline v2 — expanded CRM and payroll modules
-    - Flux — AI financial tracker (Android & iOS)
-    - Klivo Studios client projects
-  exploring:
-    - AI/LLM integration in product features
-    - Zero-knowledge cryptography patterns
-    - Product-led growth for SaaS
-  open_to:
-    - Remote full-stack engineering roles
-    - Technical co-founder at early-stage startups
-    - Freelance web, mobile, and SaaS projects
-    - Open source collaborations
-```
-
----
-
 ## Connect
 
 <div align="center">
@@ -313,10 +276,10 @@ current_focus:
 
 <div align="center">
 
-*"Simplicity is the ultimate sophistication — build less, but build it right."*
+*Let's build something worth using.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1C1C1C&height=120&section=footer&animation=fadeIn" />
 
 </div>
